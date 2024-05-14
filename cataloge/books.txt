@@ -1,0 +1,36 @@
+ID | Author              | Title                  | Pages
+---|---------------------|------------------------|------
+0001 | A.S.Pushkin         | Dubrovsky              | 142
+0003 | J.R.R. Tolkien      | The Lord of the Rings  | 1178
+0004 | Fyodor Dostoevsky   | Crime and Punishment   | 671
+0005 | George Orwell       | 1984                   | 328
+0006 | Jane Austen         | Pride and Prejudice    | 279
+0007 | Leo Tolstoy         | War and Peace          | 1225
+0008 | Mark Twain          | The Adventures of Tom Sawyer | 219
+0009 | J.K. Rowling        | Harry Potter and the Sorcerer's Stone | 320
+0010 | Harper Lee          | To Kill a Mockingbird  | 324
+0011 | Ernest Hemingway    | The Old Man and the Sea| 127
+0012 | Victor Hugo         | Les Miserables         | 1488
+0013 | F. Scott Fitzgerald| The Great Gatsby       | 180
+0014 | Gabriel Garcia Marquez | One Hundred Years of Solitude | 417
+0015 | Aldous Huxley       | Brave New World        | 288
+0016 | Arthur Conan Doyle  | The Adventures of Sherlock Holmes | 259
+0017 | Charles Dickens     | A Tale of Two Cities   | 341
+0018 | Vladimir Nabokov    | Lolita                 | 317
+0019 | George R.R. Martin  | A Game of Thrones      | 694
+0020 | Mary Shelley        | Frankenstein           | 280
+0021 | Homer               | The Odyssey            | 374
+0022 | Lewis Carroll       | Alice's Adventures in Wonderland | 200
+0023 | Jules Verne         | Twenty Thousand Leagues Under the Sea | 454
+0024 | Agatha Christie     | Murder on the Orient Express | 256
+0025 | Margaret Atwood     | The Handmaid's Tale    | 311
+0026 | Herman Melville     | Moby-Dick              | 624
+0027 | Oscar Wilde         | The Picture of Dorian Gray | 254
+0028 | Emily Bronte        | Wuthering Heights      | 337
+0029 | H.G. Wells          | The War of the Worlds  | 192
+0030 | Toni Morrison       | Beloved                | 275
+0031 | Ray Bradbury        | Fahrenheit 451         | 227
+0032 | William Golding     | Lord of the Flies      | 224
+
+0003 J.R.R. Tolkien The Lord of the Rings 1178
+0003 J.R.R. Tolkien The Lord of the Rings 1178
